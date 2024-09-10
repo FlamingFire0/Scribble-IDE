@@ -1,0 +1,7 @@
+geometry: 800x800
+title: Fermion
+version: 1.0.0.0 #major-minor-feature-bugfix
+icon: icon.png
+theme: fermion
+font: JetBrains Mono
+bracket_close: {"(":")", "{":"}", "<":">", "[":"]", "'":"'", '"':'"', "#":"#", "%", "%"}
